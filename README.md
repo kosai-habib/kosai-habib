@@ -23,11 +23,11 @@ I build intelligent web applications using modern technologies. Passionate about
 
 **Backend & Database**
 
-`Django` `REST APIs` `PostgreSQL` `MongoDB`
+`Django` `Flask` `REST APIs` `PostgreSQL` `MongoDB`
 
 **Tools & DevOps**
 
-`Git` `Docker` `Linux` `VS Code`
+`Git` `Docker` `Linux` `VS Code` `Vercel`
 
 ## Featured Projects
 
@@ -35,8 +35,11 @@ I build intelligent web applications using modern technologies. Passionate about
 |---------|-------------|------|
 | [GYMFullstack](https://github.com/kosai-habib/GYMFullstack) | Full-stack gym management system with backend API and Angular frontend | Python, Angular |
 | [gym-dashboard-management](https://github.com/kosai-habib/gym-dashboard-management) | Admin dashboard for gym operations management | Angular, Python |
-| [suber-market-albalad](https://github.com/kosai-habib/suber-market-albalad) | Supermarket management application | TypeScript |
-| [crybto](https://github.com/kosai-habib/crybto) | Cryptocurrency tracking and analysis tool | JavaScript |
+| [ai-learning-assistant](https://github.com/kosai-habib/ai-learning-assistant) | AI-powered study management system with adaptive learning algorithms | React, Vite, Zustand |
+| [D-ANIME](https://github.com/kosai-habib/D-ANIME) | Anime browsing and discovery web app deployed on Vercel | Angular, Node.js |
+| [suber-market-albalad](https://github.com/kosai-habib/suber-market-albalad) | Full-stack supermarket management system with Docker deployment | React, TypeScript, Python |
+| [crybto](https://github.com/kosai-habib/crybto) | Cryptocurrency tracking and portfolio dashboard | JavaScript, API |
+| [custmer-car](https://github.com/kosai-habib/custmer-car) | Customer car management system with MVC architecture | Python, Flask |
 
 ## Connect With Me
 
